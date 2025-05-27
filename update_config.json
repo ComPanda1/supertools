@@ -1,6 +1,6 @@
 {
     "version": "4.0.0",
-    "mega_url": "https://mega.nz/file/0CUBHQqa#aVtvYoPdm4zaZV4MCFHZZAqdAWI0Nwv1pG6pmStLblc",
+    "mega_url": "https://mega.nz/file/0KFRlSDb#fSEZhF565w9fve_00yWizHRsFLmknWuixzPyuJwB2RM",
     "remove_files": [
         "amigos/Instalar_Requisitos.bat"
     ],
@@ -10,6 +10,7 @@
         "cross",
         "dist"
     ],
+    "supported_formats": ["rar", "zip"],
     "changelog": [
         "- Versión 4.0.0",
         "- Eliminada carpeta de instaladores locales para ahorrar espacio",
