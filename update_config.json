@@ -1,0 +1,20 @@
+{
+    "version": "4.0.0",
+    "mega_url": "https://mega.nz/file/XXXXXXXXX#YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "remove_files": [
+        "amigos/Instalar_Requisitos.bat"
+    ],
+    "remove_folders": [
+        "apps",
+        ".rar",
+        "cross",
+        "dist"
+    ],
+    "changelog": [
+        "- Versión 4.0.0",
+        "- Eliminada carpeta de instaladores locales para ahorrar espacio",
+        "- Eliminado archivos innecesarios",
+        "- Descargas temporales en carpeta temporal",
+        "- Descargas de aplicaciones desde sus sitios oficiales (Ahorrar espacio)"
+    ]
+} 
